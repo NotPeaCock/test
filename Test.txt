@@ -2,4 +2,3 @@ git status: kiem tra trong project co gi
 git init: tao repository
 git add "test.txt".
 git add . : them vao tat ca vao repository
-changed
